@@ -45,7 +45,7 @@ http://localhost:6878/ace/getstream?id=<INSERT_ACESTREAM_ID_HERE>
 http://localhost:6878/ace/getstream?infohash=<INSERT_ACESTREAM_ID_HERE>
 ```
 Examples:
-- `http://localhost:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa`
+- `http://localhost:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12`
 - `http://localhost:6878/ace/getstream?infohash=37796ca47026bc190c7dc26827c0dfb6b61d137b`
 
 ### 2. Open in your Media Player
