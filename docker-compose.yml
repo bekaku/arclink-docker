@@ -1,0 +1,7 @@
+services:
+  acelink:
+    image: blaiseio/acelink
+    platform: linux/amd64
+    ports:
+      - "6878:6878"
+    restart: unless-stopped
